@@ -1,4 +1,4 @@
-
+<img src="https://avatars.githubusercontent.com/u/121343491?v=4" alt="my picture" style="border-radius: 50%; width: 100px; height: 100px;">
 <h1>Abdulaziz cherkawi</h1>
 <h2>Web development</h2>
 Tripoli-Lebanon <br>
